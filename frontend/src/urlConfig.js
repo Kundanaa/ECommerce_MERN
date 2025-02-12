@@ -1,4 +1,4 @@
-const baseUrl = "mongodb://localhost:27017";
+const baseUrl = "BACKEND_DEPLOYED_LINK";
 
 export const api = `${baseUrl}/api`;
 export const generatePublicUrl = (fileName) => {
